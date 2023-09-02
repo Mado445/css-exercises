@@ -1,0 +1,14 @@
+div,p{
+color: white;
+
+}
+div{
+ background-color:red;
+ font-size: 32px;
+ font-weight: 700;
+ text-align: center;
+}
+p{
+background-color: green;
+font-size: 18px;
+}
